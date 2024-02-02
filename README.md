@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub persona](https://read-413014.an.r.appspot.com/create?username=tomoish)
+![GitHub persona](https://read-413014.an.r.appspot.com/history?username=tomoish)
